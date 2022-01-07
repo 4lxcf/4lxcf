@@ -8,7 +8,8 @@
 
 ##
 
-<div> 
-  <a href = "https://www.linkedin.com/in/alexandre-ferreira-9386b3158/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue"></a>
-  <a href = "mailto:alexandrecferreira11@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=plastic&logo=gmail&logoColor=red"></a>
+<div > 
+  <a href = "mailto:alexandrecferreira11@gmail.com"><img src="https://img.shields.io/badge/Gmail-rgb(255,255,242)?style=plastic&logo=gmail&logoColor=rgb(199,22,16)"></a>
+  <a href = "https://www.linkedin.com/in/alexandre-ferreira-9386b3158/"><img src="https://img.shields.io/badge/LinkedIn-rgb(40,103,178)?style=plastic&logo=linkedin"></a>
+  <a href = "https://twitter.com/_alxcf"><img src="https://img.shields.io/badge/Twitter-rgb(29, 161, 242)?style=plastic&logo=twitter&logoColor=white&labelColor=rgb(29, 161, 242)"></a>
 </div>
